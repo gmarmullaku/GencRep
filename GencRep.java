@@ -4,7 +4,7 @@ public class GencRep.java
 	{
 		for (int i=0; i<5; i++)
 		{
-            System.out.println("good job");
+            System.out.println("Good job!");
         }
             
 	}
